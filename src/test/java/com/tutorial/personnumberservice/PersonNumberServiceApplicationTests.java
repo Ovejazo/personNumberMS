@@ -1,10 +1,10 @@
-package com.tutorial.feeservice;
+package com.tutorial.personnumberservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PetServiceApplicationTests {
+class PersonNumberServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
